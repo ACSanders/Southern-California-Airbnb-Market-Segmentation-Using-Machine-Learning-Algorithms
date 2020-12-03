@@ -46,7 +46,7 @@ This project uses Python 3, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, an
 # Acknowledgements
 Special thanks to *Inside Airbnb* for providing the relevant datasets. The datasets for Los Angeles and San Diego Airbnb listings can be accessed here: http://insideairbnb.com/
 
-**Note:** The datasets were accessed in November 2020.
+**Note:** The datasets were accessed on November, 26 2020.
 
 # License
 MIT
