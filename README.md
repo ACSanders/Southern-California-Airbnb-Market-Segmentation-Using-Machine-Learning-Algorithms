@@ -5,7 +5,10 @@ This project leverages K-means clustering and Principal Component Analysis to pe
 Adam C. Sanders, Ph.D.
 
 # Project Description
-This project leverages machine learning algorithms to perform market segmentation based on several Airbnb datasets. First, I clean and process datasets containing information on Airbnb listings in the Los Angeles and San diego areas. Second, I perform initial exploratory data analysis. Third, I implement K-means clustering and Principal Component Analysis to identify several meaningful clusters of Airbnb listings. Finally, I create several advanced visualization using both geo-spatical data and the results of my analyses.
+This project leverages machine learning algorithms to perform market segmentation based on several Airbnb datasets. First, I clean and process datasets containing information on Airbnb listings in the Los Angeles and San diego areas. Second, I perform initial exploratory data analysis. Third, I implement K-means clustering and Principal Component Analysis to identify several meaningful clusters of Airbnb listings. Finally, I create several advanced visualization using both geospatical data and the results of my analyses.
+
+# Important Caveat
+To upload the Jupyter notebook to Github, I had to reduce the notebook's file size. To reduce the file size, I cleared the outputs of several cells with code that produced interactive maps using geospatial data. Consequently, these interactive maps cannot be displayed on Github. However, the maps can be produced by downloading the notebook and running the code.
 
 # Business Case
 Airbnb wants to perform market segmentation on several rental properties located in the Southern California area. Specifically, the organization wants to segment the market of Airbnb listings in the Los Angeles and San Diego metropolitan areas. The goal is to segment the existing listings in these areas based on several shared features that might interest different groups of customers. These features include things like price, availability, and popularity.
